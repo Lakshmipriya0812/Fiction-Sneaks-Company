@@ -1,0 +1,209 @@
+Sneaks:
+Modernizing and Upgrading E-Commerce Site
+
+
+
+
+ 
+Contents
+1	Intro	2
+2	Business Context	3
+3	Business Problem	3
+4	Proposal 1: In-house Development	4
+4.1	Proposal Overview	4
+4.2	Economic Analysis	5
+4.3	Work Breakdown Structure	6
+4.4	Loan Payment	6
+4.5	Income	6
+4.6	Expenses	6
+4.7	Cash Flow	6
+4.8	Present Worth Calculation	7
+5	Proposal 2: External Development	7
+5.1	Proposal Overview	7
+5.2	Economic Analysis	8
+5.3	Work Breakdown Structure	9
+5.4	Loan Payment	9
+5.5	Income	9
+5.6	Expenses	9
+5.7	Cash Flow	10
+5.8	Present Worth Calculation	10
+6	Proposal Selection	10
+Strategic and Financial Implications	11
+7	Conclusion:	12
+8	Resources	12
+
+
+ 
+1	Intro 
+The Sneaks sneaker manufacturer is looking to upgrade and modernize their existing e-commerce solution.
+This document provides a brief background of the business, a justification of the project, and two separate proposals: one in-house, one external, on accomplishing this goal.  
+2	Business Context
+Sneaks is a boutique sneaker manufacturer established in 2015.  As a small upstart in Philadelphia, Sneaks’ only source of revenue was a brick-and-mortar retail location for the first three years of business.  To service more customers and grow the business, in 2018, Sneaks developed a small e-commerce site but about 90% of $500,000 yearly revenue still originated in the retail store.
+By 2022, the company’s revenue came equally from the original storefront and online sales: about $1 million each.  With online sales poised to overtake the physical store in sales, Sneaks hired a junior developer and a full-stack, senior, developer to maintain and grow the existing e-commerce site as needed.
+In September 2023, Sneaks went viral when a popular Instagram and TikTok influencer made a post about our shoes.  Overnight, Sneaks became an internet sensation, with online sales generating $4 million and retail generating $1 million in revenue in Q4 2023 alone.  
+Sneaks has scaled manufacturing to meet the new demand and is positioned to fully embrace our future online sales as the main revenue generator.
+3	Business Problem
+The current state of Sneaks’ e-commerce platform presents several business challenges that may hinder growth and customer satisfaction.
+The existing user interface and user experience elements on the platform are outdated, potentially impeding customer engagement. There is a growing request from the customer base for a more modern and visually appealing design, with an estimated dissatisfaction rate of approximately 20%.
+Furthermore, the current infrastructure is not equipped to manage increased online traffic, posing a risk of potential downtime during peak periods, potentially leading to a 15% increase in customer churn during such instances. This downtime not only affects existing customers but also poses a risk of trails failing to convert, with an estimated trail conversion failure rate of 10%.
+The absence of Salesforce integration has become a notable reason for inefficiencies in sales processes and customer relationship management. Approximately 25% of customers have expressed dissatisfaction with the current system, indicating a strong demand for streamlined processes.
+The current limitation in payment options, without integration with popular gateways such as PayPal, Stripe, and Square, could be contributing to a loss in potential revenue. There is an estimated 15% decrease in conversion rates due to the limited payment options available.
+Given the recent surge in online sales, the lack of efficient scaling in collaboration with manufacturing partners could result in approximately 10% of stockouts and delayed deliveries, negatively impacting customer satisfaction.
+These concerns, voiced by both current customers and potential leads, underline the urgency of implementing the proposed solutions. The upgrade to the website, migration to a cloud platform, integration with Salesforce, inclusion of diverse payment gateways, and improved collaboration with manufacturing partners are crucial steps toward addressing these issues and ensuring Sneaks' sustained growth.
+4	Proposal 1: In-house Development
+4.1	Proposal Overview
+
+Sneaks’ in-house development initiative to enhance its e-commerce platform involves a comprehensive approach focusing on UI/UX design, front-end development, database optimization, service integration, and team expansion. The project’s goal is to improve user interface and experience, upgrade backend infrastructure, integrate Salesforce and multiple payment gateways, and ensure scalability.
+Scope of Work:
+•	UI/UX Site Design: Redesign for a modern, user-friendly interface, incorporating customer feedback.
+•	Front-End Development: Develop responsive features for enhanced interaction, including AR try-ons.
+•	Database Optimization: Enhance database structure for efficiency and scalability, with advanced analytics.
+•	Service Integration: Integrate Salesforce and payment gateways like PayPal, Stripe, Square.
+•	Team Expansion & Training: Recruit and train professionals in front-end, UI/UX, and database management.
+
+Resource Allocation & Cost Estimation:
+•	Temporary Contactor Salaries (15 months): One UI/UX designer ($93,750), and an additional junior developer ($87,500).
+•	Technology Upgrades: $50,000 for server upgrades, software licenses, cyber security, API etc.
+•	Training Costs: $20,000 for existing staff.
+•	Operational Costs: $10,000 for utilities and miscellaneous expenses.
+•	Contingency Fund: 10% of total costs for unforeseen expenses.
+ 
+Total Cost Calculation:
+•	Additional Salaries: $93,750 (UI/UX Designer) + $87,500 (Junior Developer) = $181,250
+•	Initial Costs: $248,000 (Additional Salaries) + $50,000 (Tech Upgrades) + $20,000 (Training) + $10,000 (Operational) = $328,000
+•	With Contingency: $328,000 + (10% of $328,000) = $360,800
+
+Anticipated benefits include enhanced user experience, improved scalability, and better market adaptation. Risks involve stretched resources and potential skill limitations. This $360,800 project leverages Sneaks’ resources to boost its e-commerce presence, balancing brand identity with digital marketplace demands.
+
+4.2	Economic Analysis
+Overview
+Sneaks is evaluating two proposals to upgrade its e-commerce platform. Proposal 1 emphasizes in-house development, aiming to enhance the existing platform from within the company. This analysis aims to assess the financial viability and strategic impact of each proposal.
+Proposal 1 Economic Analysis
+Loan Details
+•	Loan Amount: $$360,800, including a 10% project total increase.
+•	Interest Rate: 8% per annum over 5 years, reflecting a realistic borrowing cost.
+•	Repayment Schedule: Detailed monthly payments calculated to cover both principal and interest over the loan period.
+Income Projections:
+It starts with $4.4 million in Year 0, with a modest increase attributed to enhanced online sales capabilities, reaching approximately $16.8 million by Year 10.
+Expenses:
+The approach to expenses for Proposal 1 involves a thorough consideration of development and testing salaries, projected to increase by 5% annually. This accounts for the natural growth in labor costs over time, reflecting market trends and the need to retain talent. In addition to these ongoing costs, there are initial expenses related to temporary hires and the allocation of resources necessary for the project's commencement and successful execution. These expenses underscore Sneaks' commitment to a disciplined approach in managing project costs, emphasizing the efficient utilization of internal capabilities and resources. This strategy is designed to ensure that the project remains within budget while achieving the desired outcomes.
+Net Cash Flow and Present Worth:
+Calculations suggest a positive net cash flow from Year 0, highlighting the project's immediate impact on Sneaks' financial health.
+The present worth of Proposal 1's cash flows reflects the proposal’s value over time, emphasizing its potential return on investment.
+
+4.3	Work Breakdown Structure
+•	See accompanying documents.
+4.4	Loan Payment
+•	See accompanying documents.
+4.5	Income
+•	See accompanying documents.
+4.6	Expenses
+•	See accompanying documents.
+ 
+4.7	Cash Flow
+•	See accompanying documents.
+ 
+4.8	Present Worth Calculation
+•	See accompanying documents.
+
+
+5	Proposal 2: 	External Development
+5.1	Proposal Overview
+To comprehensively address these issues, we propose entering an outsourcing partnership with TCS Solutions, known for their e-commerce expertise and scalability. The project scope includes optimizing Sneaks' e-commerce platform over a six-month period, focusing on user experience, interface design, scalability, customer-centric features, the integration of Salesforce and popular payment gateways, and a crucial technology upgrade. This comprehensive approach ensures not only a visually appealing and efficient platform but also streamlines sales processes and enhances payment options.
+Resource Allocation:
+TCS Solutions will assign a dedicated team comprising front-end developers, full-stack developers, UI/UX designers, and quality assurance testers. This team will be customized to meet Sneaks' specific requirements and goals, ensuring a comprehensive and successful execution of the project.
+Resource Allocation & Cost Estimation:
+The cost estimation for this project is as follows:
+•	Development Hours: $100 per hour
+•	Estimated Development Hours: 1,500 hours (about 2 months)
+•	Testing Efforts: $50 per hour
+•	Estimated Testing Hours: 500 hours (about 3 weeks)
+•	Additional Resources: $8,000 per resource
+•	Number of Additional Resources: 2
+•	Technology Upgrades: $50,000 for server upgrades, software licenses, cybersecurity enhancements, API integration, and other necessary technology improvements.
+•	Buffer Expense: $5,000
+
+•	Total Cost Calculation:
+•	Development Costs: (1,500 hours (about 2 months) * $100) = $150,000
+•	Testing Costs: (500 hours (about 3 weeks) * $50) = $25,000
+•	Resource Costs: (2 resources * $8,000) = $16,000
+•	Total Costs: $150,000 (development) + $25,000 (testing) + $16,000 (resources) + $50,000 (technology) + $5,000 (buffer) = $246,000
+Total Cost = $246,000
+Anticipated benefits of this outsourcing initiative include invaluable improvements in customer satisfaction, increased revenue from optimized online sales, a long-term competitive edge, streamlined Salesforce integration, enhanced payment options, and a technologically upgraded platform. The payment schedule involves 30% upfront upon project kickoff, 40% at the midpoint of the development timeline, and the remaining 30% upon successful project completion. Post-implementation support, lasting three months post-launch, is seamlessly integrated into the total project cost.
+
+5.2	Economic Analysis
+
+Overview
+Sneaks is evaluating two proposals to upgrade its e-commerce platform. Proposal 2 proposes outsourcing the upgrade to leverage external expertise, partnering with a specialized firm. This analysis aims to assess the financial viability and strategic impact of each proposal.
+Proposal 2 Economic Analysis
+Loan Details:
+•	Loan Amount: $246,000 to facilitate a comprehensive platform upgrade.
+•	Interest Rate: 8% per annum, with a 5-year repayment period, accommodating the larger scale of the project.
+
+Income Projections:
+It begins at $4.4 million in Year 0, with significant growth expected from the outset due to the comprehensive nature of the upgrade, aiming for over $16.8 million by Year 10.
+Expenses
+The expenses associated with Proposal 2 encompass development and testing salaries, as well as resource costs, all of which are expected to rise by 5% annually. This escalation reflects the ongoing investment in external expertise and the broad scope of collaboration required to achieve the project's ambitious goals. The structured increase in expenses underscores the strategic nature of this investment, demonstrating Sneaks' commitment to achieving transformative results through the partnership with a specialized firm. This approach is designed to maximize the value derived from the external collaboration, ensuring that the upgrade significantly enhances the platform's performance and user experience.
+
+Net Cash Flow and Present Worth:
+There is strong and increasing net cash flow, underscoring the proposal's financial sustainability.
+A high present worth calculation showcases Proposal 2's considerable long-term financial benefits, highlighting its superior economic viability.
+
+5.3	Work Breakdown Structure
+•	See accompanying documents.
+5.4	Loan Payment
+•	See accompanying documents.
+5.5	Income
+•	See accompanying documents.
+5.6	Expenses
+•	See accompanying documents.
+5.7	Cash Flow
+•	See accompanying documents.
+ 
+5.8	Present Worth Calculation
+•	See accompanying documents.
+
+6	Proposal Selection
+Initial Investment and Financing:
+Proposal 1:
+•	Loan Amount: $360,800
+•	Interest Rate: 8%
+Proposal 2:
+•	Loan Amount: $246,000
+•	Interest Rate: 8%
+With a $246,000 loan amount, Proposal 2 requires a lower initial investment compared to Proposal 1. This reduction in initial financial outlay enhances Proposal 2's advantage, providing a cost-effective means of achieving a comprehensive platform upgrade.
+Projected Revenue Growth (Over 5 Years):
+Since the income projections for both proposals are identical, the decision does not hinge on the revenue growth aspect, as both are expected to achieve substantial revenue growth.
+Expense Management:
+Proposal 1 presents a robust in-house development plan with significant early investment in personnel and technology. This approach suggests a long-term vision for building internal capabilities and gradually integrating technological advancements. However, the financial commitment is substantial, with a notable impact on Sneaks’ short-term financial flexibility. Proposal 2, on the other hand, outlines a more evenly distributed expense strategy that leverages external expertise. The lower initial costs and structured approach to managing expenses across the project's lifespan offer Sneaks an attractive alternative. This strategy provides financial flexibility and access to specialized skills and innovations without a heavy upfront financial burden.
+
+Net Cash Flow (Cumulative over 5 Years):
+Given the net cash flow projections for both Proposal 1 (In-house Development) and Proposal 2 (External Development), it is notable that the financial performance of both proposals over the 10-year period is remarkably similar.
+
+Strategic and Financial Implications
+
+Choosing Proposal 2 is a strategic decision that demonstrates Sneaks' commitment to leveraging external expertise for innovation and establishing market leadership. This decision is informed by a comprehensive evaluation of the financial aspects, including the lower initial loan amount of $246,000, the detailed expense projections, and the anticipated revenue growth. Such an approach not only aims to enhance Sneaks’ e-commerce platform but also aligns with its broader ambition to significantly improve its market presence and customer engagement.
+Implementation Focus  
+For Sneaks to fully leverage the advantages of Proposal 2, a structured approach to project management and implementation is essential. This includes:
+Effective Project Management Practices: Employing a robust project management framework that incorporates planning, execution, monitoring, and controlling to ensure the project meets its objectives on time and within budget.
+Rigorous Financial Oversight: Establishing strict financial controls and regular review mechanisms to monitor expenses against the budget, ensuring that the project remains financially viable throughout its implementation phase.
+Adaptation to Market Dynamics: Remaining agile and responsive to changes in the e-commerce landscape, allowing Sneaks to adapt its strategy as needed to capitalize on new opportunities or address emerging challenges.
+Stakeholder Engagement: Actively involving key stakeholders in the project’s progress, ensuring their needs and expectations are met, and fostering a sense of ownership and commitment to the project’s success.
+Milestone Tracking and Evaluation: Setting clear, measurable milestones and regularly evaluating project progress against these benchmarks to ensure timely delivery of project outputs and outcomes.
+
+
+7	Conclusion: 
+Proposal 2 stands out as a strategic and financially sound investment that positions Sneaks for substantial growth and innovation within the digital marketplace. By opting for external development, Sneaks not only benefits from specialized expertise and accelerated project timelines but also manages its financial risks more effectively due to the lower initial investment required. The strategic decision to pursue Proposal 2, complemented by focused implementation efforts, promises to enhance Sneaks’ competitive edge, ensuring its success in a rapidly evolving e-commerce landscape. Through careful planning, stakeholder engagement, and adaptive strategies, Sneaks is well-placed to realize the strategic and financial benefits envisioned with Proposal 2, securing its position as a leader in the digital retail domain.
+
+
+
+
+
+
+
+
+
+
+8	Resources
+
+https://www.nerdwallet.com/article/small-business/small-business-loan-rates-fees
