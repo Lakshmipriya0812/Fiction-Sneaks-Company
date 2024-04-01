@@ -1,1 +1,3 @@
-"# Sample-Sneaker-Project-Proposal" 
+Project Overview:
+
+This document outlines proposals for upgrading Sneaks' e-commerce platform, necessitated by its rapid growth and the need to address existing challenges. As a boutique sneaker manufacturer, Sneaks has seen a significant shift towards online sales, driven by a recent viral social media post. However, the current platform faces issues with outdated design, scalability, payment options, and integration with Salesforce. Two proposals have been presented, detailing in-house and external solutions, encompassing resource allocation, work breakdown structure (WBS), financial analysis including income, expenses, economic evaluation, loan payment, cash flow diagrams, and present worth calculations. These proposals aim to modernize the platform, enhance user experience, and ensure sustained growth for Sneaks in the competitive e-commerce landscape.
